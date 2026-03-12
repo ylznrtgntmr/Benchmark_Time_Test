@@ -41,7 +41,3 @@ Execution Time: 0.0021 seconds
 
 (The exact value may vary depending on the system.)
 
-## Author
-
-Yeliz Nur Toğantimur
-Computer Engineering Student
